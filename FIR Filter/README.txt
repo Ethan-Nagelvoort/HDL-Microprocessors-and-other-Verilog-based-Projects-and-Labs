@@ -1,1 +1,1 @@
-
+Datapath implements a finite-impulse response (FIR) filter y[n]=h0x[n]+h1x[n-1]+h2x[n-2], where h0, h1, and h2 are constant coefficients. Test bench uses input values of x={-1, -2, 3, 4, -5, 1, 0, 3, 4, 1, 2, 3, 4, 2, -1, 3, 2, 6, 1, -1, 7}; and coefficients h0=-3, h1=3, h2=5. 
